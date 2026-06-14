@@ -1,0 +1,37 @@
+date,description,amount,currency,paid_by,split_with,split_type,split_details,notes
+01-02-2026,Groceries - Big Bazaar,2400,INR,Aisha,Aisha;Rohan;Priya;Meera,equal,,February first grocery run
+05-02-2026,Electricity Bill - February,1800,INR,Rohan,Aisha;Rohan;Priya;Meera,equal,,Monthly electricity
+08-02-2026,Internet Bill,999,INR,Priya,Aisha;Rohan;Priya;Meera,equal,,Monthly broadband
+10-02-2026,Dinner - Marina Bites,3200,INR,Aisha,Aisha;Rohan;Priya;Meera,equal,,Group dinner
+14-02-2026,Groceries - Reliance,1650,INR,Meera,Aisha;Rohan;Priya;Meera,equal,,Mid-month groceries
+18-02-2026,Gas Cylinder,950,INR,Rohan,Aisha;Rohan;Priya;Meera,equal,,LPG refill
+20-02-2026,Cleaning Supplies,480,INR,Priya,Aisha;Rohan;Priya;Meera,equal,,Household cleaning
+22-02-2026,dinner - marina bites,3200,INR,Aisha,Aisha;Rohan;Priya;Meera,equal,,Group dinner
+01-03-2026,Groceries - March,2800,INR,Aisha,Aisha;Rohan;Priya;Meera,equal,,March grocery run
+05-03-2026,Electricity Bill - March,1950,INR,Rohan,Aisha;Rohan;Priya;Meera,equal,,March electricity
+08-03-2026,Internet Bill - March,999,INR,Priya,Aisha;Rohan;Priya;Meera,equal,,March broadband
+10-03-2026,Holi Party Supplies,3600,INR,Aisha,Aisha;Rohan;Priya;Meera,percentage,Aisha 30;Rohan 30;Priya 30;Meera 10,Meera contributed less as leaving soon
+12-03-2026,Rohan paid Aisha back,1000,INR,Rohan,Aisha,equal,,this is a settlement payment not an expense
+15-03-2026,Groceries - Mid March,1200,INR,Meera,Aisha;Rohan;Priya;Meera,equal,,Last grocery before Meera leaves
+20-03-2026,Water Bill,600,INR,Priya,Aisha;Rohan;Priya;Meera,equal,,
+22-03-2026,Society Maintenance,2000,INR,Rohan,Aisha;Rohan;Priya;Meera,equal,,Quarterly maintenance
+25-03-2026,Farewell Dinner - Meera,,INR,Aisha,Aisha;Rohan;Priya;Meera,equal,,Missing amount - farewell
+28-03-2026,Groceries - End March,1800,INR,Priya,Aisha;Rohan;Priya,equal,,Meera already left
+01-04-2026,Groceries - April,2600,INR,Aisha,Aisha;Rohan;Priya;Sam,equal,,Sam moved in April 1 but officially April 15
+05-04-2026,Electricity Bill - April,0,INR,Rohan,Aisha;Rohan;Priya,equal,,Zero amount placeholder
+08-04-2026,Internet - April,999,,Priya,Aisha;Rohan;Priya,equal,,Missing currency
+10-04-2026,Groceries April Second,2200,INR,Aisha,Aisha;Rohan;Priya;Meera,equal,,Meera listed after leaving
+14-04-2026,Parasailing Trip - Goa,$150,USD,Dev,Dev;Aisha;Rohan;Priya;Dev's Friend Kabir,share,Dev 2;Aisha 1;Rohan 1;Priya 1;Dev's Friend Kabir 1,USD expense - trip with Dev's guest
+04-05-2026,Thalassa Dinner,2400,INR,Aisha,Aisha;Rohan;Priya;Sam,equal,,April 4 dinner - see below for duplicate
+04-05-2026,Thalassa Dinner,2800,INR,Rohan,Aisha;Rohan;Priya;Sam,equal,,Duplicate entry different amount - row above (2400 by Aisha) is correct
+20-04-2026,Gym Membership,1500,INR,Sam,Aisha;Rohan;Priya;Sam,percentage,Aisha 25;Rohan 25;Priya 25;Sam 24,Percentages sum to 99 not 100
+22-04-2026,Groceries Late April,2100,INR,Rohan,Aisha;Rohan;Priya;Sam,equal,,
+25-04-2026,Movie Night,1200,INR,Priya,Aisha;Rohan;Priya;Sam,unequal,Aisha 400;Rohan 400;Priya 200;Sam 200,
+28-04-2026,Electricity Bill - April,1900,INR,Rohan,Aisha;Rohan;Priya;Sam,equal,,
+01-05-2026,Groceries - May,2900,INR,Sam,Aisha;Rohan;Priya;Sam,equal,,
+05-05-2026,Internet - May,999,INR,Priya S,Aisha;Rohan;Priya;Sam,equal,,Priya S = Priya (name variation)
+08-05-2026,Rent Contribution,15000,INR,Aisha,Aisha;Rohan;Priya;Sam,share,Aisha 1;Rohan 1;Priya 1;Sam 1,Equal shares
+10-05-2026,Grocery Refund,-500,INR,Aisha,Aisha;Rohan;Priya;Sam,equal,,Refund from returned items
+12-05-2026,Water Bill - May,650,INR,rohan ,Aisha;Rohan;Priya;Sam,equal,,rohan with trailing space
+15-05-2026,Dining Out,2800,INR,Sam,Aisha;Rohan;Priya;Sam,equal,,
+18-05-2026,Electricity Bill - April,1900,INR,Rohan,Aisha;Rohan;Priya;Sam,equal,,Duplicate of row 29
